@@ -10,7 +10,7 @@ authors = [
 ]
 description="Library of validated cosmological functions."
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 keywords = ["cosmology", "astrophysics", "physics", "science", "LSST"]
 license = { text = "BSD" }
 classifiers = [
