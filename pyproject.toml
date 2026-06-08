@@ -25,7 +25,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Physics",
 ]
 dependencies = [
-    "numpy",
+    "numpy>=2",
     "packaging",
     "scipy",
     "pyyaml",
